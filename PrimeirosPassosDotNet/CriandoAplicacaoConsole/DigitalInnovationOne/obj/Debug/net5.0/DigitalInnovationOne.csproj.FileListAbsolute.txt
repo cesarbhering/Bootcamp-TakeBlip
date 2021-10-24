@@ -1,0 +1,16 @@
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.AssemblyReference.cache
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+C:\Users\cesar\BootcampTakeBlip\PrimeirosPassosDotNet\CriandoAplicacaoConsole\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
